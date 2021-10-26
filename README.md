@@ -38,7 +38,6 @@ It is included as adversity, in the combat to malicious applications, the fact o
 
 Antivirus | Deteccion (%) | False Negative (%) | Omission (%)
 --------- | ------------- | ------------------ | -------------
-	Detectado	Não Detectado	Omisso
 Alibaba	99.9	0.1	0
 Ad-Aware	99.75	0.25	0
 Webroot	99.75	0.05	0.2
