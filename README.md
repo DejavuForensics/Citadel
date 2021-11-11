@@ -245,4 +245,4 @@ The extraction of features of executables employs the process of disassembling. 
 -	change Google Inc updates settings; 
 -	use Visual Basic. Such strategy is typical of macro viruses that are intended to infect applications that support macro language such as web browsers, Microsoft Office, and Adobe Systems.
 -	alter the access settings to Wikipedia.
--	
+
