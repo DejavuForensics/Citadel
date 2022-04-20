@@ -121,9 +121,12 @@ Trustlook	 | 	0	 | 	0.1	 | 	99.9
 
 ###### Table 3 Miscellaneous classifications of commercial antiviruses:
 
-Antivírus | VirusShare_001627d61a1bde3478ca4965e738dc1e | VirusShare_075efef8c9ca2f675be296d5f56406fa | VirusShare_0dab86f850fd3dafc98d0f2b401377d5
+Antivírus | VirusShare_00011bf7484b730cf304265d57db8d77 | VirusShare_075efef8c9ca2f675be296d5f56406fa | VirusShare_0dab86f850fd3dafc98d0f2b401377d5
 --------- | ------------------------------------------- | ------------------------------------------- | --------------------------------------------
-
+Bkav | false negative | 
+Lionic |  false negative |
+DrWeb | Trojan.PWS.Stealer.1932" |
+MicroWorld-eScan | Generic.StealerA.A1981AC9 |
 
 
 ## Materials and Methods
