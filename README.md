@@ -121,13 +121,84 @@ Trustlook	 | 	0	 | 	0.1	 | 	99.9
 
 ###### Table 3 Miscellaneous classifications of commercial antiviruses:
 
-Antivírus | VirusShare_00011bf7484b730cf304265d57db8d77 | VirusShare_075efef8c9ca2f675be296d5f56406fa | VirusShare_0dab86f850fd3dafc98d0f2b401377d5
---------- | ------------------------------------------- | ------------------------------------------- | --------------------------------------------
-Bkav | false negative | 
-Lionic |  false negative |
-DrWeb | Trojan.PWS.Stealer.1932" |
-MicroWorld-eScan | Generic.StealerA.A1981AC9 |
-
+Antivirus | VirusShare_00011bf7484b730cf304265d57db8d77 | VirusShare_000c15cfd50adc583f86031deb0d33e4 | VirusShare_000c4f7bd4b256fad1c16d4b3acf8c8a
+--------- | ------------------------------------------- | ------------------------------------------- | -------------------------------------------
+Acronis | positive | positive | positive
+Ad-Aware | positive | positive | positive
+AhnLab-V3 | positive | positive | positive
+Alibaba | positive | positive | positive
+ALYac | positive | positive | positive
+Antiy-AVL | positive | false negative | false negative
+APEX | positive | positive | positive
+Arcabit | positive | positive | false negative
+Avast | positive | positive | positive
+Avast-Mobile | false negative | antivirus scan not found | antivirus scan not found
+AVG | positive | positive | positive
+Avira | positive | positive | positive
+Baidu | positive | false negative | false negative
+BitDefender | positive | positive | positive
+BitDefenderTheta | positive | positive | positive
+Bkav | false negative | positive | positive
+CAT-QuickHeal | positive | positive | false negative
+ClamAV | positive | positive | positive
+CMC | positive | false negative | false negative
+Comodo | positive | positive | positive
+CrowdStrike | positive | positive | positive
+Cybereason | positive | antivirus scan not found | positive
+Cylance | positive | positive | positive
+Cynet | antivirus scan not found | positive | positive
+Cyren | positive | positive | positive
+DrWeb | positive | positive | positive
+eGambit | positive | false negative | false negative
+Elastic | antivirus scan not found | positive | positive
+Emsisoft | positive | positive | positive
+Endgame | positive | antivirus scan not found | antivirus scan not found
+ESET-NOD32 | positive | positive | positive
+F-Prot | positive | antivirus scan not found | antivirus scan not found
+F-Secure | positive | false negative | false negative
+FireEye | positive | positive | positive
+Fortinet | positive | positive | positive
+GData | positive | positive | positive
+Gridinsoft | antivirus scan not found | positive | positive
+Ikarus | positive | positive | positive
+Invincea | positive | antivirus scan not found | antivirus scan not found
+Jiangmin | positive | positive | positive
+K7AntiVirus | positive | positive | false negative
+K7GW | positive | positive | false negative
+Kaspersky | positive | positive | positive
+Kingsoft | false negative | positive | positive
+Lionic | false negative | positive | positive
+Malwarebytes | positive | positive | false negative
+MAX | positive | positive | positive
+MaxSecure | positive | positive | positive
+McAfee | positive | positive | positive
+McAfee-GW-Edition | positive | positive | positive
+Microsoft | positive | positive | positive
+MicroWorld-eScan | positive | positive | positive
+NANO-Antivirus | positive | positive | positive
+Paloalto | positive | false negative | false negative
+Panda | positive | positive | positive
+Qihoo-360 | positive | positive | positive
+Rising | positive | positive | positive
+Sangfor | positive | positive | positive
+SentinelOne | positive | positive | positive
+Sophos | positive | positive | positive
+SUPERAntiSpyware | false negative | positive | positive
+Symantec | positive | antivirus scan not found | antivirus scan not found
+TACHYON | positive | positive | false negative
+Tencent | positive | positive | positive
+TotalDefense | antivirus scan not found | positive | false negative
+Trapmine | positive | antivirus scan not found | antivirus scan not found
+TrendMicro | positive | positive | positive
+TrendMicro-HouseCall | positive | positive | positive
+VBA32 | positive | positive | positive
+VIPRE | positive | positive | positive
+ViRobot | false negative | positive | positive
+Webroot | positive | positive | positive
+Yandex | positive | positive | positive
+Zillya | positive | positive | positive
+ZoneAlarm | positive | positive | false negative
+Zoner | false negative | false negative | false negative
 
 ## Materials and Methods
 
