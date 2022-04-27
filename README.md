@@ -123,81 +123,81 @@ Trustlook	 | 	0	 | 	0.1	 | 	99.9
 
 Antivirus | VirusShare_00011bf7484b730cf304265d57db8d77 | VirusShare_000c15cfd50adc583f86031deb0d33e4 | VirusShare_000c4f7bd4b256fad1c16d4b3acf8c8a
 --------- | ------------------------------------------- | ------------------------------------------- | -------------------------------------------
-Acronis | positive | positive | positive
-Ad-Aware | positive | positive | positive
-AhnLab-V3 | positive | positive | positive
-Alibaba | positive | positive | positive
-ALYac | positive | positive | positive
-Antiy-AVL | positive | false negative | false negative
-APEX | positive | positive | positive
-Arcabit | positive | positive | false negative
-Avast | positive | positive | positive
+Acronis | suspicious | suspicious | suspicious
+Ad-Aware | Generic.StealerA.A1981AC9 | Trojan.Dropper.Zbot.O | Gen:Trojan.ProcessHijack.jyX@am!lRad
+AhnLab-V3 | Trojan/Win32.Tepfer.R93111 | Spyware/Win32.Zbot.R23206 | Downloader/Win32.Avalod.R20872
+Alibaba | TrojanPSW:Win32/Tepfer.feba1b1c | TrojanSpy:Win32/FAKEAV.c84419ca | VirTool:Win32/CeeInject.cebf4812
+ALYac | Generic.StealerA.A1981AC9 | Trojan.Dropper.Zbot.O | Gen:Trojan.ProcessHijack.jyX@am!lRad
+Antiy-AVL | Trojan[PSW]/Win32.Tepfer.fuph | false negative | false negative
+APEX | Malicious | Malicious | Malicious
+Arcabit | Generic.StealerA.A1981AC9 | Trojan.Dropper.Zbot.O | false negative
+Avast | Sf:Crypt-AS [Trj] | Win32:Karagany | Win32:Kryptik-IDX [Trj]
 Avast-Mobile | false negative | antivirus scan not found | antivirus scan not found
-AVG | positive | positive | positive
-Avira | positive | positive | positive
-Baidu | positive | false negative | false negative
-BitDefender | positive | positive | positive
-BitDefenderTheta | positive | positive | positive
-Bkav | false negative | positive | positive
-CAT-QuickHeal | positive | positive | false negative
-ClamAV | positive | positive | positive
-CMC | positive | false negative | false negative
-Comodo | positive | positive | positive
-CrowdStrike | positive | positive | positive
-Cybereason | positive | antivirus scan not found | positive
-Cylance | positive | positive | positive
-Cynet | antivirus scan not found | positive | positive
-Cyren | positive | positive | positive
-DrWeb | positive | positive | positive
-eGambit | positive | false negative | false negative
-Elastic | antivirus scan not found | positive | positive
-Emsisoft | positive | positive | positive
-Endgame | positive | antivirus scan not found | antivirus scan not found
-ESET-NOD32 | positive | positive | positive
-F-Prot | positive | antivirus scan not found | antivirus scan not found
-F-Secure | positive | false negative | false negative
-FireEye | positive | positive | positive
-Fortinet | positive | positive | positive
-GData | positive | positive | positive
-Gridinsoft | antivirus scan not found | positive | positive
-Ikarus | positive | positive | positive
-Invincea | positive | antivirus scan not found | antivirus scan not found
-Jiangmin | positive | positive | positive
-K7AntiVirus | positive | positive | false negative
-K7GW | positive | positive | false negative
-Kaspersky | positive | positive | positive
-Kingsoft | false negative | positive | positive
-Lionic | false negative | positive | positive
-Malwarebytes | positive | positive | false negative
-MAX | positive | positive | positive
-MaxSecure | positive | positive | positive
-McAfee | positive | positive | positive
-McAfee-GW-Edition | positive | positive | positive
-Microsoft | positive | positive | positive
-MicroWorld-eScan | positive | positive | positive
-NANO-Antivirus | positive | positive | positive
-Paloalto | positive | false negative | false negative
-Panda | positive | positive | positive
-Qihoo-360 | positive | positive | positive
-Rising | positive | positive | positive
-Sangfor | positive | positive | positive
-SentinelOne | positive | positive | positive
-Sophos | positive | positive | positive
-SUPERAntiSpyware | false negative | positive | positive
-Symantec | positive | antivirus scan not found | antivirus scan not found
-TACHYON | positive | positive | false negative
-Tencent | positive | positive | positive
-TotalDefense | antivirus scan not found | positive | false negative
-Trapmine | positive | antivirus scan not found | antivirus scan not found
-TrendMicro | positive | positive | positive
-TrendMicro-HouseCall | positive | positive | positive
-VBA32 | positive | positive | positive
-VIPRE | positive | positive | positive
-ViRobot | false negative | positive | positive
-Webroot | positive | positive | positive
-Yandex | positive | positive | positive
-Zillya | positive | positive | positive
-ZoneAlarm | positive | positive | false negative
+AVG | Sf:Crypt-AS [Trj] | Win32:Karagany | Win32:Kryptik-IDX [Trj]
+Avira | TR/Kryptik.avp.8 | TR/Inject.11 | TR/Buzus.44589745
+Baidu | Win32.Trojan-PSW.Fareit.a | false negative | false negative
+BitDefender | Generic.StealerA.A1981AC9 | Trojan.Dropper.Zbot.O | Gen:Trojan.ProcessHijack.jyX@am!lRad
+BitDefenderTheta | Gen:NN.ZexaF.34122.fmW@aOkYQG | Gen:NN.ZexaF.34628.sO1@aWSVnOni | AI:Packer.D062BC161E
+Bkav | false negative | W32.AIDetect.malware1 | W32.AIDetect.malware1
+CAT-QuickHeal | Trojanpws.Tepfer.20303 | TrojanPWS.Zbot.Y | false negative
+ClamAV | Win.Trojan.Fareit-403 | Win.Trojan.Zbot-20285 | Win.Trojan.Avalod-202
+CMC | Trojan-PSW.Win32.Tepfer!O | false negative | false negative
+Comodo | TrojWare.Win32.PWS.Fareit.GS@5t8zib | TrojWare.Win32.Kazy.FOF@4pekmj | Malware@#2qfqryp9eidtz
+CrowdStrike | win/malicious_confidence_100% (W) | win/malicious_confidence_100% (D) | win/malicious_confidence_100% (W)
+Cybereason | malicious.7484b7 | antivirus scan not found | malicious.bd4b25
+Cylance | Unsafe | Unsafe | Unsafe
+Cynet | antivirus scan not found | Malicious (score: 100) | Malicious (score: 100)
+Cyren | W32/Bloop.A.gen!Eldorado | W32/Zbot.DQ.gen!Eldorado | W32/CeeInject.AK.gen!Eldorado
+DrWeb | Trojan.PWS.Stealer.1932 | Trojan.PWS.Panda.1698 | Trojan.DownLoad3.530
+eGambit | Unsafe.AI_Score_100% | false negative | false negative
+Elastic | antivirus scan not found | malicious (high confidence) | malicious (high confidence)
+Emsisoft | Generic.StealerA.A1981AC9 (B) | Trojan.Dropper.Zbot.O (B) | Gen:Trojan.ProcessHijack.jyX@am!lRad (B)
+Endgame | malicious (high confidence) | antivirus scan not found | antivirus scan not found
+ESET-NOD32 | a variant of Win32/PSW.Fareit.D | Win32/Spy.Zbot.AAN | a variant of Win32/Injector.PBO
+F-Prot | W32/Bloop.A.gen!Eldorado | antivirus scan not found | antivirus scan not found
+F-Secure | Trojan.TR/Kryptik.avp.8 | false negative | false negative
+FireEye | Generic.mg.00011bf7484b730c | Generic.mg.000c15cfd50adc58 | Generic.mg.000c4f7bd4b256fa
+Fortinet | W32/Agent.NTM!tr | W32/ZBOT.HL!tr | W32/Injector.OEC!tr
+GData | Win32.Trojan-Stealer.Zbot.AB | Trojan.Dropper.Zbot.O | Gen:Trojan.ProcessHijack.jyX@am!lRad
+Gridinsoft | antivirus scan not found | Malware.Win32.Gen.bot!n | Trojan.Win32.Downloader.sa
+Ikarus | Trojan-Spy.Fareit | Trojan-Spy.Win32.Zbot | Trojan-Downloader.Win32.Avalod
+Invincea | heuristic | antivirus scan not found | antivirus scan not found
+Jiangmin | Trojan/PSW.Tepfer.asun | TrojanSpy.Zbot.bory | TrojanDownloader.Avalod.kys
+K7AntiVirus | Password-Stealer ( 0040f4f51 ) | Trojan ( 0040f02a1 ) | false negative
+K7GW | Password-Stealer ( 0040f4f51 ) | Trojan ( 0040f02a1 ) | false negative
+Kaspersky | Trojan-PSW.Win32.Tepfer.fuph | Trojan-Spy.Win32.Zbot.dmna | HEUR:Trojan.Win32.Generic
+Kingsoft | false negative | Win32.Heur.KVM011.a.(kcloud) | Win32.TrojDownloader.Avalod.(kcloud)
+Lionic | false negative | Hacktool.Win32.Krap.lKMc | Trojan.Win32.Generic.4!c
+Malwarebytes | Spyware.Pony | Trojan.Zbot.Gen | false negative
+MAX | malware (ai score=100) | malware (ai score=100) | malware (ai score=100)
+MaxSecure | Trojan.Malware.5237142.susgen | Trojan.Packed.Krap.iu | Trojan.Malware.3919469.susgen
+McAfee | PWS-Zbot.gen.ate | PWS-Zbot.gen.re | PWS-Zbot.gen.rz
+McAfee-GW-Edition | BehavesLike.Win32.PWSZbot.nh | BehavesLike.Win32.ZBot.dc | BehavesLike.Win32.ZBot.cc
+Microsoft | PWS:Win32/Fareit | PWS:Win32/Zbot.gen!AF | VirTool:Win32/CeeInject.CY
+MicroWorld-eScan | Generic.StealerA.A1981AC9 | Trojan.Dropper.Zbot.O | Gen:Trojan.ProcessHijack.jyX@am!lRad
+NANO-Antivirus | Trojan.Win32.Siggen.evgeyh | Trojan.Win32.Panda.kwuka | Trojan.Win32.Avalod.tmlkw
+Paloalto | generic.ml | false negative | false negative
+Panda | Trj/Genetic.gen | Bck/Qbot.AO | Trj/Genetic.gen
+Qihoo-360 | Win32/Trojan.512 | Win32/Trojan.Zbot.HxQBEpsA | Win32/Trojan.Buzus.HwEBvHsA
+Rising | Stealer.Fareit!1.B777 (CLOUD) | Spyware.Zbot!8.16B (CLOUD) | Trojan.Injector!8.C4 (CLOUD)
+Sangfor | Malware | Trojan.Win32.Save.a | Trojan.Win32.Save.a
+SentinelOne | DFI - Malicious PE | Static AI - Malicious PE | Static AI - Malicious PE
+Sophos | Mal/Pony-A | ML/PE-A + Troj/Zbot-DHN | ML/PE-A + Mal/EncPk-AEE
+SUPERAntiSpyware | false negative | Trojan.Agent/Gen-Nultsk | Trojan.Agent/Gen-Injector
+Symantec | Infostealer!im | antivirus scan not found | antivirus scan not found
+TACHYON | Trojan-PWS/W32.Tepfer.93184.U | Trojan-Spy/W32.ZBot.297472.O | false negative
+Tencent | Malware.Win32.Gencirc.114beb02 | Malware.Win32.Gencirc.10b428b9 | Malware.Win32.Gencirc.114bcb54
+TotalDefense | antivirus scan not found | Win32/Zbot.FKD | false negative
+Trapmine | malicious.moderate.ml.score | antivirus scan not found | antivirus scan not found
+TrendMicro | BKDR_PONY.SM | TROJ_FAKEAV.SMFW | TROJ_INJECTO.BXZ
+TrendMicro-HouseCall | BKDR_PONY.SM | TROJ_FAKEAV.SMFW | TROJ_INJECTO.BXZ
+VBA32 | SScope.Malware-Cryptor.Ponik | BScope.Malware-Cryptor.SB.01798 | Malware-Cryptor.Inject.gen
+VIPRE | Trojan.Win32.Fareit.gi (v) | Trojan-Spy.Win32.Zbot.dmna (v) | Trojan.Win32.Generic!BT
+ViRobot | false negative | Trojan.Win32.A.Zbot.297472.A | Trojan.Win32.A.Downloader.13504.A
+Webroot | W32.Fareit | W32.Rogue.Gen | W32.Rogue.Gen
+Yandex | Trojan.PWS.Tepfer!38TJ04+WEuY | TrojanSpy.Zbot!iI828LHQoJ4 | Trojan.GenAsa!bOLEW3pnOuY
+Zillya | Trojan.Tepfer.Win32.46435 | Trojan.Zbot.Win32.54180 | Downloader.Avalod.Win32.10878
+ZoneAlarm | Trojan-PSW.Win32.Tepfer.fuph | Trojan-Spy.Win32.Zbot.dmna | false negative
 Zoner | false negative | false negative | false negative
 
 
