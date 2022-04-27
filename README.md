@@ -200,6 +200,10 @@ Zillya | Trojan.Tepfer.Win32.46435 | Trojan.Zbot.Win32.54180 | Downloader.Avalod
 ZoneAlarm | Trojan-PSW.Win32.Tepfer.fuph | Trojan-Spy.Win32.Zbot.dmna | false negative
 Zoner | false negative | false negative | false negative
 
+##### Table legend:
+- false negative: The file is infected and the antivirus wasn't able to detect it
+- positive: The file is infected, the antivirus managed to detect it but the virus does not have a name
+All the other labels were given by the antivirus company.
 
 ## Materials and Methods
 
