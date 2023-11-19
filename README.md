@@ -1,6 +1,16 @@
 # Citadel
 Retrieval for Citadel Malware Analysis
 
+```
+Carlos Henrique Macedo dos Santos, Sidney Marlon Lopes de Lima.
+Artificial Intelligence-Driven Antivirus in Pattern Identification of Citadel Malware.
+```
+
+## How to use our dataset in Python with ELM (Extreme Learning Machine)
+
+python [melm.py](https://github.com/DejavuForensics/mELM/melm.py) -tall [Antivirus_Dataset_PE32_Citadel_mELM_format.csv](https://github.com/DejavuForensics/Citadel/blob/main/Antivirus_Dataset_PE32_Citadel_mELM_format.csv) 
+-ty 1 -nh 500 -af dilation -v
+
 ## Commercial Antivirus Limitation
 
 Technically, the modus operandi for the identification of malicious files and servers refers to consult in named blacklist databases. The VirusTotal platform issues the diagnoses regarding malignant characteristics related to files and web servers.
