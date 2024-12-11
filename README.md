@@ -4,12 +4,13 @@ Retrieval for Citadel Malware Analysis
 ```
 Carlos Henrique Macedo dos Santos, Sidney Marlon Lopes de Lima.
 Artificial Intelligence-Driven Antivirus in Pattern Identification of Citadel Malware.
+Journal of Computational Science, 82 (2024): 102389.
 ```
 
 ## How to use our dataset in Python with ELM (Extreme Learning Machine)
 
 python [melm.py](https://github.com/DejavuForensics/mELM/melm.py) -tall [Antivirus_Dataset_PE32_Citadel_mELM_format.csv](https://github.com/DejavuForensics/Citadel/blob/main/Antivirus_Dataset_PE32_Citadel_mELM_format.csv) 
--ty 1 -nh 500 -af dilation -v
+-kfold 10 -virusNorm -ty 1 -nh 500 -af dilation -v
 
 ## Commercial Antivirus Limitation
 
